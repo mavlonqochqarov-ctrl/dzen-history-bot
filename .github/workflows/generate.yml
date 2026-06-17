@@ -1,0 +1,39 @@
+name: Dzen Maqola Generatori (Gemini)
+
+on:
+  schedule:
+    # Har kuni Toshkent vaqti bilan 08:00 da ishlaydi (UTC+5 = 03:00 UTC)
+    - cron: '0 3 * * *'
+  workflow_dispatch: # Qo'lda ishga tushirish imkoniyati
+
+jobs:
+  generate-article:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install google-genai
+      
+      - name: Generate article with Gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/generate.py
+      
+      - name: Commit article and image
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Dzen Bot"
+          git add articles/
+          git diff --staged --quiet || git commit -m "Yangi maqola + rasm: $(date +'%Y-%m-%d')"
+          git push

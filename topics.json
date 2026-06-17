@@ -1,0 +1,139 @@
+{
+  "categories": [
+    {
+      "name": "buyuk_insonlar",
+      "emoji": "👤",
+      "topics": [
+        "Tarixdagi eng boy odamlar",
+        "Napoleon qanday qilib kichik bo'yi bilan Yevropani zabt etdi",
+        "Leonardo da Vinci 10 yoshida nima qilgan",
+        "Cleopatra haqida bilmaslik kerak",
+        "Genghis Xonning nasl-nasabining ajoyib haqiqati",
+        "Mikelan-jelo hayotidagi sirli voqealar",
+        "Albert Einstein ning 10 ta kam ma'lum fact",
+        "Vinston Cherchillning kundaligidan sirli yozuvlar",
+        "Nikola Telsa — ixtirochi yoki dahosi?",
+        "Konfutsiyning hayoti haqida 10 ta qiziqarli fakt"
+      ]
+    },
+    {
+      "name": "qadimiy_sivilizatsiya",
+      "emoji": "🏛️",
+      "topics": [
+        "Misr piramidalarining haqiqiy sirlari",
+        "Atlantida mavjud bo'lganmi? Yangi dalillar",
+        "Rim imperiyasi qanday qilib yiqildi?",
+        "Babilonning asosiy boshi ajoyib ixtirolari",
+        "Qadimgi Yunonistonning sirli madaniyati",
+        "Inklar imperiyasining ajoyib topilmalari",
+        "Shumerlar haqida bilmaslik kerak narsalar",
+        "Qadimgi Xitoyning 7 ta ajoyib ixtirolari",
+        "Mayya tsivilizatsiyasining sirli taqvinimi",
+        "Qadimgi Misrda shifokorlar qanday ishlagan"
+      ]
+    },
+    {
+      "name": "urush_tarixi",
+      "emoji": "⚔️",
+      "topics": [
+        "Ikkinchi jahon urushidagi eng sirli operatsiyalar",
+        "Eng qisqa urush — 38 daqiqada tugagan urush",
+        "Napoleon Rossiyaga nima uchun yengildi?",
+        "D-Day — eng katta desant operatsiyasi",
+        "Eng qimmat urush — 1 trln dollar zarar",
+        "Qadimgi jangchilar qanday jang qilgan",
+        "Kubok urushi — eng qisqa urush tarixda",
+        "Birinchi jahon urushidagi sirli voqealar",
+        "Stalingrad jangi — burilish nuqtasi",
+        "Afg'oniston — "g'alaba qozonib bo'lmaydigan" urush"
+      ]
+    },
+    {
+      "name": "geografiya_topilmalari",
+      "emoji": "🌍",
+      "topics": [
+        "Dunyodagi eng g'ayrioddiy 10 ta joy",
+        "Qutbli qutbda topilgan sirli narsalar",
+        "Okean tubidagi ajoyib kashfiyotlar",
+        "Dunyoning eng xavfli 10 ta joyi",
+        "Chernobil — 35 yildan keyin nima bo'ldi?",
+        "Mariana cho'kmasidagi hayot",
+        "Dunyodagi eng katta sirli yo'qolgan shaharlar",
+        "Sahroi Kabirdagi sirli o'zgarishlar",
+        "Amazoniya o'rmnidagi sirli qabilalar",
+        "Dunyodagi eng g'ayrioddiy tabiat hodisalari"
+      ]
+    },
+    {
+      "name": "ilmiy_kashfiyotlar",
+      "emoji": "🔬",
+      "topics": [
+        "Kasallik tarixidagi eng dahshatli epidemiyalar",
+        "Penitsilin kashfiyotidagi tasodif",
+        "DNA ning kashfiyot tarixi",
+        "Kosmos haqida 10 ta qiziqarli fakt",
+        "Yerdagi eng qadimiy hayot shakllari",
+        "Sun'iy intellektning rivojlanish tarixi",
+        "Vaksina ixtirosi — insoniyatni qutqargan kashfiyot",
+        "Internet qanday yaratildi?",
+        "Elektr energiyasining kashfiyot tarixi",
+        "Dunyodagi eng qadimiy kitoblar"
+      ]
+    },
+    {
+      "name": "sirli_hodisalar",
+      "emoji": "🔮",
+      "topics": [
+        "Tarixdagi eng katta sirli yo'qolishlar",
+        "Bermuda uchburchagi — haqiqat yoki afsona?",
+        "Nostradamusning bashoratlari o'zga midimi?",
+        "Dunyodagi eng sirli qotilliklar",
+        "Tarixdagi eng katta firibgarliklar",
+        "Yo'qolgan madaniyatlarning sirli yozuvlari",
+        "Dunyodagi eng g'alati ta'tillar",
+        "Tarixdagi eng katta aldovlar",
+        "Sirli yo'qolgan orollar",
+        "Tarixdagi eng g'alati hodisalar"
+      ]
+    },
+    {
+      "name": "madaniyat_sanolat",
+      "emoji": "🎭",
+      "topics": [
+        "Mona Lisaning haqiqiy siri",
+        "Tarixdagi eng qimmat sanoat asarlari",
+        "Musiqa tarixidagi eng sirli voqealar",
+        "Kino san'atining ajoyib tarixi",
+        "Dunyodagi eng qadimiy rasm va haykallar",
+        "Adabiyotdagi eng mashhur qahramonlar haqiqati",
+        "Teatr tarixidagi eng sirli voqealar",
+        "Rassomlar hayotidagi sirli hodisalar",
+        "Dunyodagi eng qimmat kitoblar",
+        "San'at tarixidagi eng katta firibgarliklar"
+      ]
+    },
+    {
+      "name": "ovqat_tarixi",
+      "emoji": "🍽️",
+      "topics": [
+        "Ovqat tarixidagi eng qiziqarli faktlar",
+        "Dunyodagi eng qimmat ovqatlar",
+        "Kofe — dunyoni o'zgartirgan ichimlik",
+        "Shokoladning ajoyib tarixi",
+        "Pizza qanday yaratilgan?",
+        "Dunyodagi eng g'ayrioddiy ovqatlar",
+        "Choy tarixidagi sirli hodisalar",
+        "Makaroning haqiqiy kelib chiqishi",
+        "Dunyodagi eng qadimiy retseptlar",
+        "Ovqat tarixidagi eng katta yanglishishlar"
+      ]
+    }
+  ],
+  "daily_amount": 1,
+  "article_format": {
+    "min_words": 800,
+    "max_words": 1200,
+    "style": "qiziqarli, oson tushunarli, fakt asosida",
+    "language": "o'zbek tili"
+  }
+}
